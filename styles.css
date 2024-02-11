@@ -24,7 +24,7 @@ body{
     height: 100vh;
 }
 .orange_top_container{
-    height: 538px;
+    height: 812px;
 }
 .desktop_img{
     display: none;
@@ -390,7 +390,7 @@ footer{
         margin-top: 320px;
     }
    .orange_top_container{
-    height: 727px;
+    height: 900px;
     }
     .navbar{
         top: initial;
