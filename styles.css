@@ -22,6 +22,7 @@ html, body{
 }
 body{
     height: 100vh;
+    background-color: #fffbf7;
 }
 .orange_top_container{
     height: 812px;
@@ -154,6 +155,7 @@ main{
     width: 100%;
     display: grid;
     place-items: center;
+    
 }
 #brand_egg h2, #stand_cup h2, 
 .cereza_descrition h2, .orange_descrition h2{
@@ -390,7 +392,7 @@ footer{
         margin-top: 320px;
     }
    .orange_top_container{
-    height: 900px;
+    height: 800px;
     }
     .navbar{
         top: initial;
